@@ -1,0 +1,7 @@
+WIN系统软件VM options文件配置路径示例
+下面的路径不要照抄，填你自己的Jet-code.jar文件的路径
+-javaagent:D:\code\jet-code\jet-code.jar
+
+mac和Linux系统软件VM options文件配置路径示例
+mac的直接把jet-code.jar文件拖进终端里就显示路径了
+-javaagent:/Users/Username/code/jet-code/jet-code.jar
